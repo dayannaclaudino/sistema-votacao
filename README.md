@@ -1,9 +1,9 @@
-##Sistema de Votação Online para Eleição de Líder e Vice-Líder de Turma
+## Sistema de Votação Online para Eleição de Líder e Vice-Líder de Turma
 O objetivo dessa ação é obter um sistema que permita o cadastro e consulta das chapas de líder e vice-líder de turma que irão concorrer a eleição, assim como a contabilização dos votos dos alunos da classe. 
 
-###Trabalho realizado para a disciplina de Programação Web Backend.
+### Trabalho realizado para a disciplina de Programação Web Backend.
 
-##Menu
+## Menu
 **Cadastro da Chapa**
 - Nome da Chapa
 - Código da Chapa
@@ -21,7 +21,7 @@ O objetivo dessa ação é obter um sistema que permita o cadastro e consulta da
 - Calcula o percentual de representatividade de cada chapa
 - Mostra o total de votos
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Linguagem de Programação: PHP
 - Banco de Dados: MySQL
 - O armazenamento dos dados inseridos no sistema é de extrema importância para o correto funcionamento do sistema implementado.
