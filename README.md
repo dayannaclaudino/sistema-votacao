@@ -1,7 +1,7 @@
 ## Sistema de Votação Online para Eleição de Líder e Vice-Líder de Turma
+### Trabalho realizado para a disciplina de Programação Web Backend.
 O objetivo dessa ação é obter um sistema que permita o cadastro e consulta das chapas de líder e vice-líder de turma que irão concorrer a eleição, assim como a contabilização dos votos dos alunos da classe. 
 
-### Trabalho realizado para a disciplina de Programação Web Backend.
 
 ## Menu
 **Cadastro da Chapa**
