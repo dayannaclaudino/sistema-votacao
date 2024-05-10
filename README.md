@@ -11,10 +11,10 @@ O objetivo dessa ação é obter um sistema que permita o cadastro e consulta da
 - Nome do Líder
 - Matrícula do Vice-líder
 - Nome do Vice-líder
-- 
+  
 **Consulta da Chapa**
 - Exibe todas as informações das chapas cadastradas
-- 
+  
 **Votação**
 - O aluno informa sua matrícula
 - Os dados das chapas são exibidos para que o aluno escolha em qual chapa votar (cada aluno só pode votar uma vez)
