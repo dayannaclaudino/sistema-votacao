@@ -32,3 +32,10 @@ O objetivo dessa ação é obter um sistema que permita o cadastro e consulta da
 Para tal, o sistema será integrado ao banco de dados MySQL, conforme visto nas aulas da disciplina.
 
 Esse é um esboço básico do sistema, que pode ser expandido e aprimorado conforme necessário.
+
+### Segue abaixo a tela de Cadastro e de relatório de votação
+![Imagem do WhatsApp de 2024-05-16 à(s) 15 04 24_299cc809](https://github.com/dayannaclaudino/sistema-votacao/assets/108901349/90b02ecf-1699-4a66-a098-9f252a7500b5)
+
+![Imagem do WhatsApp de 2024-05-16 à(s) 15 05 09_903dbc68](https://github.com/dayannaclaudino/sistema-votacao/assets/108901349/26b09595-39b2-460c-b444-b0f20062dbc3)
+
+
